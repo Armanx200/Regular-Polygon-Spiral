@@ -17,10 +17,6 @@ This MATLAB script generates animated polygon drawings with customizable paramet
 2️⃣ Call the `Polygon` function with desired parameters to generate animated polygons.
 3️⃣ Customize colors, direction, and other visual aspects for diverse animations. 🎥
 
-<p align="center">
-  <img src="https://github.com/Armanx200/Regular-Polygon-Spiral/blob/main/pic2.jpg?raw=true" alt="Polygon" width="500" height="400">
-</p>
-
 ### Example:
 ```matlab
 NUM_SIDES = 4;
