@@ -34,3 +34,5 @@ plot(x_bordar, y_bordar, 'black', 'LineWidth', 2);
 for i=1:4
     Polygon(NUM_SIDES, fig_center{i}, PLOT_SIZE/3, HOW_MANY_TIMES, angle_dist, color, direction{i});
 end
+```
+Arman Kianian
